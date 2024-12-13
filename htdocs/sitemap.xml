@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://faucetminehub.com/</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/statistic</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/docs/chat.html</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/docs/daily.html</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/docs/staking.html</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/docs/deposit.html</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/docs/withdraw.html</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/docs/referrals.html</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/login</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/register</loc>
+	<lastmod>2024-10-12T19:48:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://faucetminehub.com/request_password_reset</loc>
+	<lastmod>2024-10-12T19:48:34+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
